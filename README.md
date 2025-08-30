@@ -1,2 +1,2 @@
-# Intro-To-Computing
-Intro To Computing I
+# ITC I
+ITC I
